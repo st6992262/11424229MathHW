@@ -1,1 +1,10 @@
 #1.Linear differential equations (Integrating Factor)
+Q6:y′−y=x
+Solution:
+Integrating factor: 
+
+General explanation:y=−(x+1)+Cex
+#2.Variation of Parameters
+Q12:y′′−y=e2x
+Solution:
+General explanation:y=C1​ex+C2​e−x+31​e2x
