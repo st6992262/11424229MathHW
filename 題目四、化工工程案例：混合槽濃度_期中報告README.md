@@ -67,9 +67,9 @@ $$</p>
 <h2>4. Final Solution</h2>
 
 <div class="box">
-$$
+<p>$$
 C(t) = C_{in} + (C_0 - C_{in}) e^{-\frac{Q}{V}t}
-$$
+$$<p>
 </div>
 
 <h2>5. Engineering Significance</h2>
