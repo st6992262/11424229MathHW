@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Mixing Tank Concentration</title>
-
-    <!-- MathJax for rendering equations -->
-    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-    <style>
-        body {
-            font-family: Arial;
-            line-height: 1.6;
-            margin: 40px;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        .box {
-            background: #f4f4f4;
-            padding: 10px;
-            border-left: 5px solid #3498db;
-        }
-    </style>
 </head>
 
 <body>
